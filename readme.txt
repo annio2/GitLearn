@@ -5,8 +5,4 @@
  learn how stage work.
  learning......
  add a branch dev
-<<<<<<< HEAD
- add feature2 and feature1
-=======
- add feature1
->>>>>>> feature1
+dev dev dev test
